@@ -104,7 +104,7 @@ export default function HomeScreen() {
     <SafeAreaView
       style={{ flex: 1, paddingHorizontal: 20, paddingVertical: 30 }}
     >
-      {/* Action Modal */}
+      {/* Action Modal  */}
       <AddModal
         addModalVisible={addModalVisible}
         setAddModalVisible={setAddModalVisible}
